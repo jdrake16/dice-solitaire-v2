@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
   private ImageView[] diceImages;
   private Button roller;
   private Random rng = new Random();
-
+//comment
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
